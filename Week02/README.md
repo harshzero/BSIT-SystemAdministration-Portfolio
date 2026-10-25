@@ -4,7 +4,7 @@
 
 This project is an initial infrastructure plan for **ABC Startup Solutions**, a 20-person software development company starting with no existing IT equipment or network. The plan translates business needs into a practical, secure, and scalable office design before equipment is purchased or deployed.
 
-**Prepared by:** Harry Martillano  
+**Prepared by:** Harry Anthony A. Martillano  
 **Course:** ITEP 414 – System Administration and Maintenance
 
 ## Learning Objectives
