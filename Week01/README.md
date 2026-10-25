@@ -2,7 +2,7 @@
 
 ## Student Information
 
-- **Name:** Harry Martillano
+- **Name:** Harry Anthony A. Martillano
 - **Course:** BSIT – ITEP 414: System Administration and Maintenance
 - **Section:** _To be added_
 - **Date:** Week 1
